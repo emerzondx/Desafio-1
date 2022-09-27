@@ -1,0 +1,5 @@
+crear una text area para recivir elmensaje 
+buscar en el mensaje las letras 
+cambiar las letras
+mostrar resultados
+volver a mesaje original 
